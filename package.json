@@ -1,0 +1,18 @@
+{
+  "name": "micro-server",
+  "version": "1.0.0",
+  "description": "Simple embbedd server",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+  	"type": "git",
+  	"url": "git+https://github.com/Alluminox/micro-server.git"
+  },
+  "keywords": [],
+  "author": "Jimmy Codder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alluminox/micro-server.git"
+  },
+  "homepage": "https://github.com/Alluminox/micro-server.git"
+}
