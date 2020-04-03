@@ -183,4 +183,4 @@ class MicroBootstrapServer extends BootstrapServer {
      }
 }
 
-export default MicroBootstrapServer;
+module.exports = MicroBootstrapServer;
